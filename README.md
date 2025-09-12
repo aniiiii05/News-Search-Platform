@@ -24,14 +24,6 @@ Deployment: Vercel
 
 Design Principles: Mobile-first, responsive, and optimized UI/UX
 
-🌐 Deployment
-
-The application is live and hosted on Vercel for production-grade performance.
-(Add your project link here once available: https://your-app-link.vercel.app)
-
-📌 Usage
-
-Enter a keyword or phrase in the search bar.
 
 Instantly retrieve relevant news articles from a dataset of 1M+ entries.
 
